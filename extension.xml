@@ -12,10 +12,6 @@
 
         <version>1.14.1</version>
 
-        <infourl title="Changelog">
-            https://mon-domaine.tld/cassiopeia_dsfr/changelog.html
-        </infourl>
-
         <downloads>
             <downloadurl type="full" format="zip">
                 https://mon-domaine.tld/cassiopeia_dsfr/cassiopeia_dsfr-1.14.1.zip
@@ -25,3 +21,4 @@
         <targetplatform name="joomla" version="5.[0-9]" />
     </update>
 </updates>
+
