@@ -14,11 +14,12 @@
 
         <downloads>
             <downloadurl type="full" format="zip">
-                https://mon-domaine.tld/cassiopeia_dsfr/cassiopeia_dsfr-1.14.1.zip
+                https://raw.githubusercontent.com/dsic-se-support-web/simba-cassiopeia-dsfr/refs/heads/main/cassiopeia_dsfr-1.14.0.zip
             </downloadurl>
         </downloads>
 
         <targetplatform name="joomla" version="5.[0-9]" />
     </update>
 </updates>
+
 
